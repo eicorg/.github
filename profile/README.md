@@ -3,7 +3,8 @@
 The Electron-Ion Collider  
 A machine that will unlock the secrets of the strongest force in Nature. 
 
-This organization hosts repositories of the tools and services which make up the controls infrastructure of the EIC.
+This organization hosts repositories supporting the development, integration, and deployment of software and controls infrastructure for the EIC.
+It serves all EIC technical groups—including Controls, RF, Beam Diagnostics, Magnets, and collaborators from partner laboratories such as JLab.
 
 #### Contribution Guidelines:
 
